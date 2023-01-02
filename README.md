@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siraj-zaki
 - 👀 I’m React.js,React Native ,Node.js,MongoDb Developer 
 - 🌱 I’m currently working 
-- 💞️ I’m looking to collaborate on web and developemt projects 
+- 💞️ I’m looking to collaborate on web and development projects 
 - 📫 sirajmuneerfsd1@gmail.com
 
 <!---
